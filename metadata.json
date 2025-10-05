@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cinematic Angle Generator",
+  "description": "Upload a scene and generate six different professional camera angles of the exact same moment. The AI preserves the subject, lighting, and environment, only changing the camera's perspective.",
+  "requestFramePermissions": []
+}
